@@ -1,60 +1,34 @@
-<img src="/images/posts/summary1.jpg" style="width: 100%;"/>
+<img src="https://image.ibb.co/d3KEfm/intro101_1.jpg" style="width: 100%;"/>
 
-[GDG DevFest Ukraine 2015](https://devfest.gdg.org.ua/2015/) is now over. It was a great success.
- We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Ukraine!
+[GDG DevFest Tekirdag 2016](https://gdgtekirdag.org) Bitti!!
 
-On behalf of the DFUA’s Team we warmly thank you for helping make [GDG DevFest Ukraine 2015](https://devfest.gdg.org.ua/2015/) a huge success.
-A BIG THANK to all the volunteers from different GDG groups of Ukraine for their priceless help,  thanks to all the speakers for the great speeches and sharing their experience and knowledge, and, of course, thanks to all our partners, specially, [COREVALUE](http://www.corevalue.net/) for being Diamond sponsor and our Platinum sponsors - [N-iX](https://www.facebook.com/N.iX.Company), [DataArt](http://www.dataart.com/), [ELEKS](http://eleks.com/?utm_source=GDG_Dev_Fest&utm_medium=partner_page&utm_content=site-link&utm_campaign=ua_events), [Sigma](http://sigma.software/), [Wolters Kluwer](http://wolterskluwer.com/).
+GDG Ekipleri için çok heyecan verici bir etkinlik geride kaldı!!
 
-The event took place on 23-24th of October at the [Pivdennyi-EXPO](http://www.pivdennij.com/mahazyn/index/index/shop/1572/). Devfest was focused on Android, Web and Cloud technologies and also Community Hub.Over 500 people participated in the event with a mix of students and working professionals (more 80% experienced developers).
 
-**These two days were full of discoveries and records:**
+2 Aralık Tarihinde Gerçekleşen Etkinliğe 250+ katılım gösterildi. Birbirinden güzel sunumların yer aldığı etkinlikte tüm katılımcılar güzel zaman geçirip etkinlikten mutlu ayrıldılar!
 
-* The biggest amount of visitors of all annual Ukrainian devfests - 500+ visitors.
-* 3 parallel tracks of Android, Web and Cloud technologies and also community hub.
-* 40 sessions. No marketing - just technical hardcore!
-* The widest geography of our [speakers](https://devfest.gdg.org.ua/#!/speakers) (most of them are [GDE](https://developers.google.com/experts/)) - Switzerland, Czech Republic, UK, France, Turkey, Poland, Brasil, Ukraine.
-* Participating countries : 9 (Switzerland, Czech Republic, UK, France, Turkey, Poland, Brasil, Ukraine, Norway).
-* Participating GDG Leaders : 2 (GDG Lviv, GDG Odessa, GDG Uzhhorod, GDG Cherkasy, GDG Dnipro, GDG Kyiv, GDG Ternopil, GDG Prague, GDG Istanbul, GDG Maceio, GGD Kremenchuk).
-* Yummmyy venue design:
+**Bu güzel günden Kayıtlar ve Fotoğraflar:**
 
-<img src="/images/posts/summary2.jpg" style="width: 30%;"/>
+* 250+ katılımcı
+* Android ve Web alanında 2 salonda paralel sunumlar.
+* 14 sunum. Birçoğu teknik!
+* Etkinlik alanı ve fotoğrafları :
+
+<img src="https://lh3.googleusercontent.com/0NpsChXU6oEe9hrBwQRc_RkixyvoMfUv83YoybfDteUclwGKyh0VRxNasi40L1GqKWYzRgwjEW9vK4y7VZdlLfxDrj04Y-U9oiNYE5FwzaRVtQbyacBFrbCEOM3OSgpTx07dI0HgNs0w2YpWH1tPjGnR-5xiymzNybzAhUTcUGAgtXDcxIR3UGiuUov-Ssgy0Hw12qfZwXBcuQxrLjNhw8grfSX3oDlvo6Y2eHP0q7oR_zSX6ez3eCJXg5IYEkQ5a_p03KvFKtiJasikK-XLkONc-G6SInoQjefz-HS2MU0ZqLbKRLIIvqpo-hhLztiI9FtX2PJlFCtO9cUy7Tkzj9ztc5LqjeHMkl7kKYedFY6zshfxcbyi2KYAtmpkxuU9pQpQqaxZT6dqe9VlNUJhLILtIor2s5qxpKs_OO_yAuA-CI9UZ5GBDr_vqBewckyVvRi1w0EXzsh89QdTChS6ZWCPOhklByPSHJssNERnKvbTdAittml02WS8yrannDnRJwr8SJyn6pUeGQOQDH5grhc_-Myv3meQ60qlL3XQ8xT-FggyBIcw2eYUSclYcWkjihVbsKG84zVpzfNyWLkCrwPbETY7KieYe5s0zb0ZKjYDNJepOjWsMO_XqIPYo-SGvZZrSar0KYq-3G9TA_OUKpq1fwVnYIVAKmc=w1986-h1318-no" style="width: 30%;"/>
 
 but at the end of each day people couldn’t resist their temptation :)
 
-<img src="/images/posts/summary3.jpg" style="width: 30%;"/>
+<img src="https://lh3.googleusercontent.com/DOp9eMzxGMw0a03rCPvQEie7y1Y-RQlBLiv_8UlyBbTMVmZMqxTnj4oDhbSUP9HFuZwisX1ZsJtDYFI7DQ4NvHcKQc3DcMy2nxoujGx2tmB8Qo63q3A-RH_trPjdkSEhhoaHtAwaRNBbCSEpJlvWvEXKIk7K_jk66aGdn4dsjDug7JYG2xQ-ggkjJl-5IOjeq092c9ZEYNH2ecZXXV-Lf7voUigOtwDEAFKmeaUfdWdSFlKSDnRLIvLwjoIpfuYwFm0VGgJ10j5iZZ2_4G5YNVYbcT0Z11Z0Jc-jDTl7YmFaL5-GmVGBkcWR0IT1ZhxRvLTb41133oBKibHROxQmBHTFmpzGeYjDDd5i69ESnRthbvUmyalNU0yckMWtsgh7KHqZuu1ieIOVLEJWkeSlwuJx9Dhvrpzzy16COf2TcPeBaiTiKtE4_Z21yGtQ49NP_4U6W4SeocN_KLDwhwgKyqQk-PQirIIuF8xILBsO_LcoORUDXyLn3Qlp0YwgBT7z4pjOpScWA-RUw5Cnro4W1KdKZkoFPSoNX0AswsmeZaM-uWpmXtUlooC9LczHKg3y9DMKJF__4dZ8TnSidIaNKNNv016J0KqLhb0-FdbXF4c8CU5qiBEKBm_jmjTR_ggtUR402DvqyHZF8tMI_BD8NvLxxxGYbGJRh0Q=w1986-h1318-no" style="width: 30%;"/>
 
-* Android sessions were the most popular sessions during the conference part of the event.
 
-<img src="/images/posts/summary4.jpg" style="width: 50%;"/>
+<img src="https://lh3.googleusercontent.com/3LR3c1T60Mqjpm3_tD1oqIbiu4xAbczlE1KWjDYwXXSRbZcoRL4oLKSi2dGWnY2iZABWkznl4sPQFSdHV952uw44FG9EG27tII7IKC9yekkTVqRiD3Dd28_I3aKzOOrZdcyKfcqWzcdDAB4kfo0zFgrafb5cHGAQ0_phLUwiPu4HjWKKBbMvk_bJEIew44vQgWvOsATHAli2XqGzlfckM8zU1jOwKHynJTy1Abg4UntFQkDkjpFK_ex_cX4Kk24t58Q4cPh8lgMfF3E1V7FAIWveGu0FvP_5taHgOSz0q0Y0jmLKNzFqi3iWvpyFjUFUzPnni0VQWNFdDr-3NNeONsmMZg6foyKOm575EV7LMraU8cLFods_Gz0ARWWvb-2zYwhXWZDkhk4X6o4sdVycEJsepM4geFMFuOY1BohDujVti39adWIMJefjpptyhvet7ChAs7UN4lqz0XolXt3pAy2QO4vCUx3SRpRqP6lBfwAO9nyDQ6b7Ciu62Ksqm6HUHCLnb3lBOoW6SwmrUdsFGG5ulsCw50M1QI984xxQJKVr0l4CdNDrogzWbACo1P_F56SIwJzIFapK-LIrIiUaGgqawRgUXyCeuX2_QEQTSc_oM1cFsIGxqC4je7r5vX5Hd3i0m06fLHbmyMClind1tkN2lgl-Hv35fwY=w1986-h1318-no" style="width: 30%;"/>
 
-* The most useful 6 hours of workshops - attendees got an overview of Firebase during [Juarez Filho](https://twitter.com/juarezpaf) speech and were able to practice their skills during Saturday’s workshop.
+<img src="https://lh3.googleusercontent.com/5FeB8r85VftSmhtv-DtpFNkIaaErBDAvXLn51VTBrFYVcdJWt5OvUMQVpy2SSSFbeGWUxOiGVnbmlk001qlLN1tVA5D488K2Ll1PVLhgLPXuAkNlh1C4tDZspI3tGWK6xS5UEzGmQyOoqBrGPTV4UfYCcpzbxLmK57Ll_m7zcX7hfNTiuBlj4_OSnOMMqos4SOAM-ziQ1tDGatW6nZl4kZobIUD4-fkqdGHJ57zdRwHcZCcPKuRMUyG4BsRKSy7ya1HJAIyuyfQ622QqfMDXV7uePpZS4XesgrY74Lu4QSjNgVaS4H9OdMNL2HnlSRn40ztYQchKG1MSQwa8OeA42z1_Z8GkaylO6-fzefT0MiSH-8ex9DdIQ7gWCKpT6aHzGS2mAUBhoBhBgTIOX_iKmhiSBuYpKsSjaVOpxebrTlr94fDpE5eMQf444S7rcgQr28Wd7AXS9SQ5URN64JxPo-eplIIXjcczTy0eS-JBA32fuWMxTJAMDydY6kOYEGjGmmG9MbKmlI0CVeVrK_3C7xu6xu7TYR9A7is2FCi3WEEhhxgpEjnq5JGyKAw2TMkVtQjejU-Q3g3f6j9amz7yOdLhCdbg1mGsypGXo6FSneFY8gQadsZuYqi2BqnKdNaM9KkeA5hR-2xGAUbQUa6e07kd-pAjBm-Jn2g=w1986-h1318-no" style="width: 30%;"/>
 
-<img src="/images/posts/summary5.jpg" style="width: 50%;"/>
+<img src="https://lh3.googleusercontent.com/JsNohkIGutrNnQ09PYUTiswjq4JZRQUzbkphw9fBRLr2SB5ed_qobIxh2PV5JKwsycdT8yhDsB2RXqSeGW8BvBI9-o8LE3vHHR8l39TSTUefzgzAw4Jk-cItcJMqYYzamG_eEakG4yinMJoKIlec5EvQ6OFVsB2t_JSfvNdaqlG72NvklqucttV0iLw8X_qtHeVATCevgwlrJzhdezFe_9kf1IBue0JV2rZps7hz5pnFeDaU3fCO9yv7upTD7aBZ9inwTGAnwlA-KIMngVxR0ngreLD7Sl5gWetUrjGgUKhxjjxP-Jv4nid03VcTJ2c9ZLCbivdoXCsFyVGdxDHMEreX9SJTbZOCfag9VRcepXFYsy7jVYjb98dOJvfjD5aUw3hSDMGnS2RaDkoOk5XzNNmB2khu-YBN7gHK01JhwEYuBlzsoN9aTmKC0wu33W6Jo_EHj2L5oxuKg95--AyqWT-X4i2y80lMU6nwhagioh6uXl-lyrNqMfGDUx6ubR_N12FRxWbSDogfZpe1dekvQXEceRB5ceO8QjtPnLB4P-2YD-ZPlakyWoqnGK3UI4MVSw4DYO7b3cnLCCfdM1Ujj80KmW7OezWJ1NBY3Nkrn_neieK4PWTk6nYS4Eo6pmHD-qvYYXR5DVxYtpzo8v0CO2ZvVwey4U4gP2U=w1986-h1318-no" style="width: 30%;"/>
 
-Also [Jana Moudrá](http://devfest.gdg.org.ua/2015/speakers/14) has held workshop for building first server-side application in Dart.
 
-<img src="/images/posts/summary6.jpg" style="width: 50%;"/>
 
-Moreover attendees were able to see how to build nice looking front-end application using Polymer Starter Kit and predefined set of elements and components during [Jakub  Škvára](http://devfest.gdg.org.ua/#!/speakers/15)’s workshop.
-
-* DIY - making cardboard by the hands!
-
-<img src="/images/posts/summary11.jpg" style="width: 50%;"/>
-
-* Tasty Android versions table at the coffee break.
-
-<img src="/images/posts/summary7.jpg" alignment="center" style="width: 50%;"/>
-
-<img src="/images/posts/summary8.jpg" style="width: 50%;"/>
-
-<img src="/images/posts/summary9.jpg" style="width: 50%;"/>
-
-And, of course, the last version Android Marshmallow!
-
-<img src="/images/posts/summary10.jpg" style="width: 30%;"/>
-
-As you could see, the most wonderful part was atmosphere - full of networking, geeks, inventors, speakers, visitors, presenters and rocking the dancefloor at the afterparty :).
 
 Thank you all!! You are awesome! Keep in touch with us!
 Cheers! ;)
