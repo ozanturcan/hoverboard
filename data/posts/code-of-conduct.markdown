@@ -1,53 +1,36 @@
-# 1. Purpose
+# 1. Amaç
 
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+[GDG TEKİRDAG](http://www.gdgtekirdag.org/)'nın birinci amacı Tekirdağ bölgesindeki teknoloji ve yazılıma ilgi duyan insanları bir araya getirmektir. GDG TEKİRDAĞ bu konuda açık saygılı ve kapsayıcı bir topluluktur.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+[GDG TEKİRDAG](http://www.gdgtekirdag.org/) istenmeyen herhangi bir durum yaşanmaması adına aşağıdaki kurallara uymanızı amaçlamakta ve etkinlikte güzel vakit geçirmenizi temenni etmektedir.
 
-# 2. Open [Source/Culture/Tech] Citizenship
+# 2. Beklenen Davranışlar
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+- Etkinliğe aktif bir şekilde katılım sağlamak,
+- Aşağılayıcı, ayrımcı veya taciz edici davranış ve konuşmalardan kaçınmak,
+- Beklenmeyen veya istenmeyen bir olay durumunda ( tehlike, yapılmaması gereken bir davranış veya eksik olan herhangi bir materyal ) olayı etkinlik liderlerine bildirin.
 
-# 3. Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+# 3. Yapılmaması Gereken Davranışlar
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Etkinlik katılımcılarının ve kominite üyelerinin sergilememesi gereken davranışlar:
 
-# 4. Unacceptable Behavior
+- Etkinlik alanında ve salonda şiddet içeren söz veya davranışlar,
+- Cinsiyetçi, ırkçı veya başka türlü ayrımcı söz veya davranışlar,
+- Kişisel hakaretler, özellikle cinsiyet, cinsel yönelim, ırk, din veya engellilik durumu ile ilgili olanlar,
+- Uygun olmayan fotoğraf ya da kayıt,
+- Uygunsuz fiziksel temas,
+- Yukarıdaki davranışlardan herhangi birini savunmak veya teşvik etmek,
 
-The following actions are considered harassment and are unacceptable within our community:
+Yukarıdaki davranışlarda bulunan katılımcı veya kominite üyeleri etkinlik alanından uzaklaştırılacaktır. Davranışlar asla  tolere edilemez.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+# 3. Yapılmaması Gereken Davranışların Sonuçları
 
-#  5. Consequences of Unacceptable Behavior
+Eğer bir katılımcı rahatsızlık veren davranışlar içinde bulunursa, organizatörler kendilerince uygun gördükleri herhangi kararı uygulayabilirler. Bu kararlara uyarı vermek veya etkinlikten uzaklaştırmak da dahildir.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
-
-# 6. Scope
-
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
 
 # 7. Contact info
 
-- Oleh Zasadnyy, +38 093 486 64 60, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [sofia.huts@gmail.com](mailto:sofia.huts@gmail.com)
+- Sercan Yusuf,  [srcnysf@gmail.com](mailto:srcnysf@gmail.com)
+- Ozan Türcan,  [ozanturcan@gmail.com](mailto:ozanturcan@gmail.com)
